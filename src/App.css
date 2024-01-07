@@ -1,0 +1,18 @@
+* {
+  font-family:sans-serif
+}
+
+button {
+  border: solid 1px black;
+  border-radius: 16px;
+  width: 64px;
+  height: 32px;
+  background: white;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.person {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
